@@ -8,13 +8,7 @@ The code is based on skeleton code from the class. Project was completed using t
 These agents are able to learn optimal policies until convergence when put into an environment that can be characterized as a Markov Decision Process using Transition functions (non-deterministic acting) and Reward functions.
 
 ---
-![188_p3a](https://user-images.githubusercontent.com/54779918/83335690-be5d0d80-a2ae-11ea-93ce-13f9e2c3a3b6.gif)
 
 
-![188_p3b](https://user-images.githubusercontent.com/54779918/83335701-d3d23780-a2ae-11ea-86ca-f3c5943df161.gif)
-
-
-![188_p3c](https://user-images.githubusercontent.com/54779918/83335925-60312a00-a2b0-11ea-86cb-01cd2716828c.gif)
-
-
+![188_p3d](https://user-images.githubusercontent.com/54779918/83336386-4fce7e80-a2b3-11ea-9768-6e780d51c896.gif)
 
